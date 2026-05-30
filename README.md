@@ -4,7 +4,7 @@
 ![Estado](https://img.shields.io/badge/Estado-Completado-brightgreen?style=for-the-badge)
 ![UPI](https://img.shields.io/badge/Universidad-UPI%20Panamá-red?style=for-the-badge)
 
-> **Tarea 4** · Programación I · Universidad del Panamá Internacional
+> **Tarea 4** · Programación I · Universidad Politécnica Internacional
 
 ---
 
@@ -96,7 +96,7 @@ python tarea4_hugoparnther.py
 ## 👤 Autor
 
 **Hugo Parnther**  
-Estudiante de Programación · Universidad del Panamá Internacional  
+Estudiante de Programación · Universidad Politécnica Internacional  
 
 ---
 
